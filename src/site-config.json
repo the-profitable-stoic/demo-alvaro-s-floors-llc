@@ -1,0 +1,613 @@
+{
+  "business": {
+    "name": "Alvaro's Floors LLC",
+    "phone": "+12402052336",
+    "category": "flooring contractor",
+    "city": "Baltimore",
+    "state": "MD"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Baltimore's Flooring Authority",
+      "heroSubline": "Uncompromising quality for homes and businesses. Expert installation and lasting results, guaranteed.",
+      "aboutTitle": "Decades of Flooring Expertise in Baltimore",
+      "aboutText": [
+        "Alvaro's Floors LLC has been laying the foundation for beautiful homes and businesses in the Baltimore area for over a decade. We're a family-owned and operated business, built on a commitment to quality craftsmanship and unwavering customer satisfaction.",
+        "We don't cut corners – ever. From initial consultation to final inspection, we prioritize open communication, meticulous attention to detail, and the use of premium materials. We treat every project, big or small, as if it were our own home.",
+        "Baltimore is our home, too. We're proud to support local suppliers and actively participate in community initiatives. We understand the unique challenges of Baltimore's diverse architecture and climate, and we're equipped to handle them with expertise."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precision and care in every installation, ensuring lasting beauty and performance."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We source only the highest quality flooring materials from trusted suppliers."
+        },
+        {
+          "title": "Unwavering Commitment",
+          "description": "Our dedication to customer satisfaction is unmatched. We stand behind our work, always."
+        },
+        {
+          "title": "Baltimore Expertise",
+          "description": "Deep understanding of local architecture, climate, and soil conditions for optimal flooring solutions."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Get a free, no-obligation estimate for your flooring project."
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring Installation & Refinishing",
+        "shortDescription": "Timeless elegance and lasting value with expert hardwood installation and refinishing.",
+        "description": "Hardwood flooring adds warmth, character, and value to any Baltimore home. At Alvaro's Floors LLC, we specialize in both new hardwood installations and the restoration of existing hardwood floors. Our experienced team handles everything from selecting the perfect wood species to precise installation and meticulous finishing.\n\nFor installations, we carefully assess your subfloor to ensure a solid, level foundation. We offer a wide variety of hardwood options, including oak, maple, cherry, and exotic hardwoods, to match your aesthetic and budget. Our finishing process includes sanding, staining (if desired), and applying multiple coats of durable polyurethane for lasting protection.\n\nIf your existing hardwood floors are looking worn or damaged, our refinishing services can bring them back to life. We use dustless sanding equipment to minimize mess and create a smooth, even surface. We can also repair minor damage, such as scratches, dents, and water stains, before refinishing. Whether you want to restore the original luster or change the color with a new stain, we'll help you achieve the perfect look.",
+        "process": [
+          "Step 1: Consultation and Material Selection",
+          "Step 2: Subfloor Preparation and Leveling",
+          "Step 3: Precise Hardwood Installation",
+          "Step 4: Sanding, Staining (optional), and Finishing"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Timeless Beauty and Elegance",
+          "Improved Indoor Air Quality",
+          "Easy to Clean and Maintain"
+        ],
+        "faq": [
+          {
+            "question": "How long does hardwood flooring installation take?",
+            "answer": "The duration depends on the size and complexity of the project, but typically ranges from 3-7 days."
+          },
+          {
+            "question": "What is the best type of hardwood for Baltimore's climate?",
+            "answer": "Oak is a popular choice due to its durability and resistance to moisture. Engineered hardwood is also a good option for areas prone to humidity."
+          },
+          {
+            "question": "How often should I refinish my hardwood floors?",
+            "answer": "Typically, hardwood floors need refinishing every 7-10 years, depending on foot traffic and wear."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring Installation",
+        "shortDescription": "Durable, affordable, and stylish laminate flooring solutions for Baltimore homes.",
+        "description": "Laminate flooring is a cost-effective and versatile option for Baltimore homeowners seeking a beautiful and durable flooring solution. Alvaro's Floors LLC offers a wide selection of laminate styles, colors, and textures to complement any décor. Laminate is known for its resistance to scratches, stains, and fading, making it ideal for high-traffic areas and homes with pets and children.\n\nOur expert installers ensure a precise and seamless installation, paying close attention to detail and proper subfloor preparation. We use high-quality underlayment to provide cushioning, sound insulation, and moisture protection. Laminate flooring is easy to clean and maintain, requiring only regular sweeping and occasional mopping.\n\nWe source our laminate flooring from reputable manufacturers, ensuring that it meets our strict standards for quality and durability. Whether you're looking for a wood-look, tile-look, or stone-look laminate, we have the perfect option to enhance your Baltimore home.",
+        "process": [
+          "Step 1: Consultation and Material Selection",
+          "Step 2: Subfloor Inspection and Preparation",
+          "Step 3: Underlayment Installation",
+          "Step 4: Precise Laminate Flooring Installation"
+        ],
+        "benefits": [
+          "Affordable and Budget-Friendly",
+          "Durable and Scratch-Resistant",
+          "Easy to Clean and Maintain",
+          "Wide Variety of Styles and Colors"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While most laminate flooring is water-resistant, it is not completely waterproof. We recommend choosing a water-resistant laminate for areas prone to moisture, such as bathrooms and kitchens."
+          },
+          {
+            "question": "How long does laminate flooring installation take?",
+            "answer": "Laminate flooring installation typically takes 1-3 days, depending on the size and complexity of the project."
+          },
+          {
+            "question": "Can laminate flooring be installed over existing flooring?",
+            "answer": "In some cases, laminate flooring can be installed over existing flooring, provided that the existing floor is level and in good condition. We will assess your subfloor during the consultation."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring Installation",
+        "shortDescription": "Waterproof and stylish vinyl flooring solutions for Baltimore homes and businesses.",
+        "description": "Vinyl flooring is an excellent choice for Baltimore homes and businesses seeking a waterproof, durable, and stylish flooring option. Alvaro's Floors LLC offers a wide range of vinyl flooring options, including sheet vinyl, vinyl tile, and luxury vinyl plank (LVP). Vinyl flooring is known for its resistance to water, stains, and scratches, making it ideal for bathrooms, kitchens, basements, and high-traffic areas.\n\nOur skilled installers ensure a precise and professional installation, paying close attention to detail and proper subfloor preparation. We use high-quality adhesives and sealants to prevent moisture damage and ensure a long-lasting installation. Vinyl flooring is easy to clean and maintain, requiring only regular sweeping and occasional mopping.\n\nWe source our vinyl flooring from leading manufacturers, ensuring that it meets our strict standards for quality and performance. Whether you're looking for a classic, modern, or contemporary look, we have the perfect vinyl flooring option to enhance your Baltimore space.",
+        "process": [
+          "Step 1: Consultation and Material Selection",
+          "Step 2: Subfloor Inspection and Preparation",
+          "Step 3: Adhesive Application",
+          "Step 4: Precise Vinyl Flooring Installation"
+        ],
+        "benefits": [
+          "Waterproof and Moisture-Resistant",
+          "Durable and Scratch-Resistant",
+          "Easy to Clean and Maintain",
+          "Wide Variety of Styles and Colors"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for basements?",
+            "answer": "Yes, vinyl flooring is an excellent choice for basements due to its waterproof properties and resistance to moisture."
+          },
+          {
+            "question": "How long does vinyl flooring installation take?",
+            "answer": "Vinyl flooring installation typically takes 1-2 days, depending on the size and complexity of the project."
+          },
+          {
+            "question": "What is the difference between sheet vinyl and vinyl plank?",
+            "answer": "Sheet vinyl comes in large rolls and provides a seamless, waterproof surface. Vinyl plank comes in individual planks that are installed side-by-side, offering a more realistic wood or tile look."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring",
+        "name": "Tile Flooring Installation",
+        "shortDescription": "Durable and elegant tile flooring for kitchens, bathrooms, and more.",
+        "description": "Tile flooring offers unmatched durability and aesthetic appeal, making it a popular choice for Baltimore homeowners. Alvaro's Floors LLC specializes in the installation of ceramic, porcelain, and natural stone tile. Tile is resistant to water, stains, and scratches, making it ideal for kitchens, bathrooms, and entryways.\n\nOur experienced tile installers meticulously prepare the subfloor to ensure a level and stable foundation. We use high-quality mortars and grouts to create a strong and long-lasting installation. We pay close attention to detail, ensuring precise cuts and consistent grout lines.\n\nWe offer a wide variety of tile styles, colors, and sizes to complement any décor. Whether you're looking for a classic, modern, or contemporary look, we have the perfect tile flooring option to enhance your Baltimore home.",
+        "process": [
+          "Step 1: Consultation and Material Selection",
+          "Step 2: Subfloor Preparation and Leveling",
+          "Step 3: Tile Layout and Cutting",
+          "Step 4: Mortar Application and Tile Installation",
+          "Step 5: Grouting and Sealing"
+        ],
+        "benefits": [
+          "Waterproof and Stain-Resistant",
+          "Durable and Long-Lasting",
+          "Easy to Clean and Maintain",
+          "Wide Variety of Styles and Colors"
+        ],
+        "faq": [
+          {
+            "question": "Is tile flooring suitable for bathrooms?",
+            "answer": "Yes, tile flooring is an excellent choice for bathrooms due to its waterproof properties and resistance to moisture."
+          },
+          {
+            "question": "How long does tile flooring installation take?",
+            "answer": "Tile flooring installation typically takes 2-5 days, depending on the size and complexity of the project."
+          },
+          {
+            "question": "What is the difference between ceramic and porcelain tile?",
+            "answer": "Porcelain tile is denser and more durable than ceramic tile, making it a better choice for high-traffic areas and outdoor applications."
+          }
+        ]
+      },
+      {
+        "slug": "floor-repairs",
+        "name": "Floor Repair Services",
+        "shortDescription": "Expert floor repair services to restore the beauty and integrity of your Baltimore floors.",
+        "description": "Baltimore's unique climate and older housing stock can take a toll on your floors. From water damage caused by spring thunderstorms to foundation shifts due to our clay soil, Alvaro's Floors LLC provides comprehensive floor repair services to restore the beauty and integrity of your existing floors. We handle everything from minor repairs to major renovations.\n\nOur experienced technicians assess the damage and develop a customized repair plan to address the specific issues. We repair damaged hardwood floors, replace cracked tiles, repair water-damaged vinyl, and fix uneven subfloors. We use high-quality materials and proven techniques to ensure a long-lasting repair.\n\nDon't let damaged floors detract from the beauty and value of your Baltimore home. Contact Alvaro's Floors LLC for a free estimate and let us restore your floors to their former glory.",
+        "process": [
+          "Step 1: Damage Assessment and Consultation",
+          "Step 2: Repair Plan Development",
+          "Step 3: Material Selection and Procurement",
+          "Step 4: Repair Execution and Finishing"
+        ],
+        "benefits": [
+          "Restored Floor Beauty and Integrity",
+          "Extended Floor Lifespan",
+          "Improved Home Value",
+          "Prevention of Further Damage"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my floors need repair?",
+            "answer": "Signs of floor damage include cracks, gaps, water stains, loose tiles, and uneven surfaces."
+          },
+          {
+            "question": "Can you repair water-damaged floors?",
+            "answer": "Yes, we specialize in repairing water-damaged floors. We will assess the extent of the damage and develop a plan to restore your floors to their original condition."
+          },
+          {
+            "question": "How much does floor repair cost?",
+            "answer": "The cost of floor repair depends on the extent of the damage and the type of flooring. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "subfloor-preparation",
+        "name": "Subfloor Preparation & Leveling",
+        "shortDescription": "Ensure a solid foundation for your new floors with our expert subfloor preparation services.",
+        "description": "A proper subfloor is crucial for the longevity and performance of any flooring installation. In Baltimore, with its older homes and shifting clay soils, subfloor preparation is especially important. Alvaro's Floors LLC provides expert subfloor preparation and leveling services to ensure a solid foundation for your new floors.\n\nWe inspect your existing subfloor for damage, unevenness, and moisture. We repair or replace damaged subfloor panels, level uneven surfaces with self-leveling compounds, and install moisture barriers to protect against water damage. We use the latest tools and techniques to ensure a smooth, level, and dry subfloor.\n\nInvesting in proper subfloor preparation will prevent future flooring problems, such as squeaks, cracks, and uneven surfaces. Contact Alvaro's Floors LLC for a free consultation and let us prepare your subfloor for a beautiful and long-lasting flooring installation.",
+        "process": [
+          "Step 1: Subfloor Inspection and Assessment",
+          "Step 2: Damage Repair and Replacement",
+          "Step 3: Leveling and Smoothing",
+          "Step 4: Moisture Barrier Installation"
+        ],
+        "benefits": [
+          "Ensured Flooring Longevity",
+          "Prevention of Flooring Problems",
+          "Improved Flooring Performance",
+          "Enhanced Home Value"
+        ],
+        "faq": [
+          {
+            "question": "Why is subfloor preparation important?",
+            "answer": "Subfloor preparation ensures a level, stable, and dry foundation for your new floors, preventing future problems and extending their lifespan."
+          },
+          {
+            "question": "How do I know if my subfloor needs repair?",
+            "answer": "Signs of subfloor damage include uneven surfaces, squeaks, cracks, and moisture stains."
+          },
+          {
+            "question": "Can you prepare a subfloor for any type of flooring?",
+            "answer": "Yes, we can prepare a subfloor for any type of flooring, including hardwood, laminate, vinyl, and tile."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-flooring",
+        "name": "Commercial Flooring Solutions",
+        "shortDescription": "Durable and stylish flooring solutions for Baltimore businesses.",
+        "description": "Alvaro's Floors LLC provides commercial flooring solutions for businesses throughout the Baltimore area. We understand the unique demands of commercial spaces, including high traffic, heavy use, and specific aesthetic requirements. We offer a wide range of commercial flooring options, including vinyl composition tile (VCT), epoxy flooring, and commercial-grade carpet.\n\nOur experienced commercial flooring installers work efficiently and professionally to minimize disruption to your business operations. We use high-quality materials and proven installation techniques to ensure a long-lasting and durable flooring solution.\n\nWhether you're renovating an office, retail space, or restaurant, Alvaro's Floors LLC has the perfect commercial flooring solution to meet your needs and budget.",
+        "process": [
+          "Step 1: Consultation and Needs Assessment",
+          "Step 2: Material Selection and Budgeting",
+          "Step 3: Installation Scheduling and Execution",
+          "Step 4: Post-Installation Inspection and Support"
+        ],
+        "benefits": [
+          "Durable and Long-Lasting",
+          "Easy to Clean and Maintain",
+          "Professional and Stylish Appearance",
+          "Minimized Business Disruption"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial flooring do you offer?",
+            "answer": "We offer a wide range of commercial flooring options, including vinyl composition tile (VCT), epoxy flooring, commercial-grade carpet, and more."
+          },
+          {
+            "question": "How long does commercial flooring installation take?",
+            "answer": "The duration of commercial flooring installation depends on the size and complexity of the project. We will provide a detailed timeline during the consultation."
+          },
+          {
+            "question": "Do you offer maintenance services for commercial flooring?",
+            "answer": "Yes, we offer maintenance services to help keep your commercial flooring looking its best. Contact us for more information."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Columbia",
+        "slug": "columbia-md",
+        "state": "MD",
+        "content": "Alvaro's Floors LLC is proud to offer comprehensive flooring services to the residents and businesses of Columbia, Maryland. We understand the unique character of Columbia, a planned community known for its village-centered design and diverse housing styles, many built between the 1960s and 1980s. From replacing outdated flooring in older homes to installing modern options in newer constructions, we have the expertise to meet your needs. \n\nOur team is experienced in handling the specific challenges presented by Columbia's climate, including the hot, humid summers that can impact flooring materials. We offer a wide selection of durable and moisture-resistant options, ensuring your floors look beautiful and last for years to come. Whether you're looking for hardwood, laminate, tile, or carpet, we'll help you find the perfect fit for your home and lifestyle.",
+        "localContext": "Columbia's planned community design and prevalence of homes built in the mid-20th century influence flooring preferences and renovation needs.",
+        "nearbyAreas": [
+          "Ellicott City",
+          "Clarksville",
+          "Jessup"
+        ]
+      },
+      {
+        "city": "Bethesda",
+        "slug": "bethesda-md",
+        "state": "MD",
+        "content": "Alvaro's Floors LLC provides expert flooring services to homeowners and businesses in Bethesda, Maryland. We understand the upscale character of Bethesda and the prevalence of homes built in the 1930s through the 1960s. We specialize in preserving the original charm of these homes while updating them with modern, durable flooring options.\n\nWe are aware of the impact the hot, humid summers can have on flooring. We can recommend and install materials that can handle the climate. If you're looking for hardwood, laminate, tile, or carpet, we'll help you find the perfect fit for your home and lifestyle.",
+        "localContext": "Bethesda's upscale residential areas and older homes require careful consideration when selecting and installing new flooring.",
+        "nearbyAreas": [
+          "Chevy Chase",
+          "Potomac",
+          "Kensington"
+        ]
+      },
+      {
+        "city": "Rockville",
+        "slug": "rockville-md",
+        "state": "MD",
+        "content": "Alvaro's Floors LLC is dedicated to providing top-quality flooring services to the diverse community of Rockville, Maryland. We understand the varied architectural styles of Rockville, with many homes built between the 1950s and 1970s. Whether you're renovating a mid-century modern home or updating a more contemporary space, we have the expertise to deliver exceptional results.\n\nOur team is knowledgeable about the challenges posed by Rockville's climate, including the hot, humid summers. We offer a wide range of flooring options that are both beautiful and durable, ensuring your floors can withstand the elements and maintain their pristine appearance for years to come. We offer many options to fit your style and budget.",
+        "localContext": "Rockville's diverse housing stock and climate considerations require careful selection of appropriate flooring materials.",
+        "nearbyAreas": [
+          "Gaithersburg",
+          "Germantown",
+          "North Bethesda"
+        ]
+      },
+      {
+        "city": "Annapolis",
+        "slug": "annapolis-md",
+        "state": "MD",
+        "content": "Alvaro's Floors LLC is proud to serve the historic city of Annapolis, Maryland, with comprehensive flooring services. We understand the unique charm and architectural heritage of Annapolis, particularly the prevalence of Colonial and Federal-style homes in the downtown area. We specialize in preserving the character of these historic homes while providing modern and durable flooring solutions.\n\nWe are also aware of the impact the hot, humid summers can have on flooring. We can recommend and install materials that can handle the climate. If you're looking for hardwood, laminate, tile, or carpet, we'll help you find the perfect fit for your home and lifestyle.",
+        "localContext": "Annapolis's historic architecture and waterfront location influence flooring choices, prioritizing materials that complement the city's aesthetic and withstand moisture.",
+        "nearbyAreas": [
+          "Severna Park",
+          "Arnold",
+          "Edgewater"
+        ]
+      },
+      {
+        "city": "Ellicott City",
+        "slug": "ellicott-city-md",
+        "state": "MD",
+        "content": "Alvaro's Floors LLC is pleased to offer flooring services to the residents and businesses of Ellicott City, MD. We understand the unique blend of historic charm and modern development that characterizes Ellicott City. From the historic district's older buildings to newer residential areas, we have the expertise to handle any flooring project.\n\nWe consider the local climate, including hot, humid summers and cold winters, when recommending flooring options. We offer a wide selection of materials that are both durable and stylish, ensuring your floors will look great and last for years to come. Whether you're renovating a historic home or updating a contemporary space, we're here to help.",
+        "localContext": "Ellicott City's blend of historic and modern architecture influences flooring preferences, requiring a versatile approach.",
+        "nearbyAreas": [
+          "Columbia",
+          "Catonsville",
+          "Woodlawn"
+        ]
+      },
+      {
+        "city": "Towson",
+        "slug": "towson-md",
+        "state": "MD",
+        "content": "Alvaro's Floors LLC proudly serves the Towson, Maryland community with a comprehensive range of flooring solutions. We understand the diverse needs of Towson residents, from students and young professionals to families and retirees. Whether you're looking to upgrade your apartment, renovate your home, or improve your business space, we have the expertise to meet your flooring needs.\n\nWe offer a wide variety of flooring options to suit your style and budget. Whether you prefer hardwood, laminate, tile, carpet, or vinyl, we can help you find the perfect flooring solution for your space. We also offer professional installation services to ensure your new floors look their best and last for years to come.",
+        "localContext": "Towson's diverse population and mix of residential and commercial properties influence flooring needs, requiring a versatile range of options.",
+        "nearbyAreas": [
+          "Parkville",
+          "Lutherville-Timonium",
+          "Cockeysville"
+        ]
+      },
+      {
+        "city": "Glen Burnie",
+        "slug": "glen-burnie-md",
+        "state": "MD",
+        "content": "Alvaro's Floors LLC is committed to providing exceptional flooring services to the Glen Burnie, Maryland community. We understand the diverse housing styles and needs of Glen Burnie residents. Whether you're looking to update your family home, renovate a rental property, or enhance your business space, we have the expertise to deliver outstanding results.\n\nWe offer a wide range of flooring options to suit your style and budget. From classic hardwood to durable laminate, stylish tile to comfortable carpet, we can help you find the perfect flooring solution for your space. We also offer professional installation services to ensure your new floors are installed correctly and look their best.",
+        "localContext": "Glen Burnie's suburban character and diverse housing stock influence flooring preferences, requiring a variety of styles and materials.",
+        "nearbyAreas": [
+          "Pasadena",
+          "Severn",
+          "Linthicum"
+        ]
+      },
+      {
+        "city": "Owings Mills",
+        "slug": "owings-mills-md",
+        "state": "MD",
+        "content": "Alvaro's Floors LLC is proud to offer top-quality flooring services to the residents and businesses of Owings Mills, Maryland. We understand the growing community of Owings Mills and the diverse needs of its residents. From new construction homes to established neighborhoods, we have the expertise to handle any flooring project.\n\nWe offer a wide range of flooring options to suit your style and budget, including hardwood, laminate, tile, and carpet. We also offer professional installation services to ensure your new floors are installed correctly and look their best. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Owings Mills's growing population and mix of residential and commercial properties influence flooring needs, requiring a comprehensive range of options.",
+        "nearbyAreas": [
+          "Reisterstown",
+          "Pikesville",
+          "Randallstown"
+        ]
+      },
+      {
+        "city": "Catonsville",
+        "slug": "catonsville-md",
+        "state": "MD",
+        "content": "Alvaro's Floors LLC is dedicated to providing exceptional flooring services to the Catonsville, Maryland community. We understand the unique charm and character of Catonsville, with its mix of historic homes and modern developments. Whether you're renovating a classic bungalow or updating a contemporary townhouse, we have the expertise to meet your flooring needs.\n\nWe offer a wide range of flooring options to suit your style and budget, including hardwood, laminate, tile, and carpet. We also offer professional installation services to ensure your new floors are installed correctly and look their best. We're committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Catonsville's blend of historic and modern architecture influences flooring preferences, requiring careful consideration of style and durability.",
+        "nearbyAreas": [
+          "Arbutus",
+          "Ellicott City",
+          "Woodlawn"
+        ]
+      },
+      {
+        "city": "Parkville",
+        "slug": "parkville-md",
+        "state": "MD",
+        "content": "Alvaro's Floors LLC is pleased to offer comprehensive flooring services to the residents and businesses of Parkville, Maryland. We understand the established residential community of Parkville and the diverse needs of its homeowners. Whether you're looking to update your living room, renovate your kitchen, or improve your basement, we have the expertise to handle any flooring project.\n\nWe offer a wide variety of flooring options to suit your style and budget. From classic hardwood to durable laminate, stylish tile to comfortable carpet, we can help you find the perfect flooring solution for your space. We also offer professional installation services to ensure your new floors are installed correctly and look their best.",
+        "localContext": "Parkville's established residential neighborhoods influence flooring preferences, often prioritizing durability and affordability.",
+        "nearbyAreas": [
+          "Towson",
+          "Carney",
+          "Overlea"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Hardwood Flooring Installation",
+        "text": "Alvaro's Floors installed beautiful new hardwood floors in my Federal Hill rowhouse. The crew was professional, efficient, and the floors look amazing! They even helped me choose the perfect stain to match my existing trim. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Laminate Flooring Installation",
+        "text": "We used Alvaro's Floors to install laminate flooring in our basement. The price was very competitive, and the installation was quick and easy. There were a couple of minor issues, but they addressed them promptly and professionally. Overall, a great experience.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Vinyl Flooring Installation",
+        "text": "Alvaro's Floors did an excellent job installing vinyl flooring in our kitchen. The installers were on time, courteous, and very skilled. The floor looks fantastic and is so easy to clean! I definitely recommend them.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Tile Flooring Installation",
+        "text": "We hired Alvaro's Floors to install tile in our bathroom, and we couldn't be happier with the results. The tile work is impeccable, and the grout lines are perfectly even. They were also very helpful in choosing the right tile for our space. Great job!",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Emily S.",
+        "rating": 4,
+        "service": "Floor Repair Services",
+        "text": "Alvaro's Floors repaired some water damage to our hardwood floors after a pipe burst. They were able to match the existing wood perfectly, and the repairs are seamless. The price was reasonable, and the service was excellent.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Hardwood Flooring Refinishing",
+        "text": "My old hardwood floors were looking tired and worn. Alvaro's Floors refinished them and they look brand new! The dustless sanding process was amazing – no mess at all. I highly recommend their refinishing services.",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Alvaro's Floors | Baltimore Flooring Contractor",
+        "description": "Expert flooring installation and repair in Baltimore, MD. Hardwood, laminate, vinyl, tile. Free estimates. Call +12402052336"
+      },
+      "about": {
+        "title": "About Alvaro's Floors LLC | Baltimore, MD",
+        "description": "Learn about Alvaro's Floors LLC, a trusted flooring contractor in Baltimore, MD. Quality craftsmanship and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "Flooring Services | Baltimore, MD | Alvaro's Floors",
+        "description": "Comprehensive flooring services in Baltimore, MD. Hardwood installation, laminate, vinyl, tile, and repair. Free quotes. +12402052336"
+      },
+      "contact": {
+        "title": "Contact Alvaro's Floors | Baltimore, MD",
+        "description": "Contact Alvaro's Floors LLC for flooring services in Baltimore, MD. Get a free estimate. Call +12402052336 or fill out our online form."
+      },
+      "reviews": {
+        "title": "Alvaro's Floors LLC Reviews | Baltimore, MD",
+        "description": "Read reviews for Alvaro's Floors LLC, a leading flooring contractor in Baltimore, MD. See what our satisfied customers are saying."
+      },
+      "service-areas": {
+        "title": "Alvaro's Floors Service Areas | Baltimore, MD",
+        "description": "Alvaro's Floors LLC provides flooring services in Baltimore, Columbia, Bethesda, Rockville, and Annapolis. Contact us for a free estimate."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "tile-flooring": "/images/service-tile-flooring.webp",
+      "floor-repairs": "/images/service-floor-repairs.webp",
+      "subfloor-preparation": "/images/service-subfloor-preparation.webp",
+      "commercial-flooring": "/images/service-commercial-flooring.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring": {
+        "src": "/images/service-tile-flooring.webp",
+        "srcset": "/images/service-tile-flooring-400w.webp 400w, /images/service-tile-flooring-800w.webp 800w, /images/service-tile-flooring-1200w.webp 1200w, /images/service-tile-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-repairs": {
+        "src": "/images/service-floor-repairs.webp",
+        "srcset": "/images/service-floor-repairs-400w.webp 400w, /images/service-floor-repairs-800w.webp 800w, /images/service-floor-repairs-1200w.webp 1200w, /images/service-floor-repairs.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "subfloor-preparation": {
+        "src": "/images/service-subfloor-preparation.webp",
+        "srcset": "/images/service-subfloor-preparation-400w.webp 400w, /images/service-subfloor-preparation-800w.webp 800w, /images/service-subfloor-preparation-1200w.webp 1200w, /images/service-subfloor-preparation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-flooring": {
+        "src": "/images/service-commercial-flooring.webp",
+        "srcset": "/images/service-commercial-flooring-400w.webp 400w, /images/service-commercial-flooring-800w.webp 800w, /images/service-commercial-flooring-1200w.webp 1200w, /images/service-commercial-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
